@@ -3,12 +3,15 @@
 ### Description
 
 ### Live Demonstraction of Maze-Runner
+The Good maze with a path to move from one corner to other corner.
 <p align="center">
   <img src="https://github.com/RANJEET16520/MazeRunner/blob/master/Images/Good_Input.png"/>
 </p>
 <p align="center">
   <img src="https://github.com/RANJEET16520/MazeRunner/blob/master/Images/Good_Grid.png"/>
 </p>
+
+The Bad maze with no path to move from one corner to other corner.
 <p align="center">
   <img src="https://github.com/RANJEET16520/MazeRunner/blob/master/Images/Bad_Input.png"/>
 </p>
