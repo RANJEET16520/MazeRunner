@@ -1,6 +1,7 @@
 # Maze-Runner
 
 ### Description
+In this an object moves in the square maze of blocks where the initial locations specified by the user through input as 0 or 1 where 0 indicates that block is occupied and 1 indicates that block in free and object can pass through the block. The object wants to cross the maze from top left corner to the bottom right corner of the maze. If path exists then object can move from source to destination.
 
 ### Live Demonstraction of Maze-Runner
 The Good maze with a path to move from one corner to other corner.
